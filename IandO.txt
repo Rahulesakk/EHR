@@ -1,0 +1,79 @@
+145
+0
+33
+52
+Positive
+
+85
+0
+27
+32
+Negative
+
+
+37
+Male
+Atypical angina
+130
+250
+Less than 120 mg/dl Categorical Variable
+Having ST-T wave abnormality
+187
+No
+4
+0
+0
+2
+Positive
+
+
+57
+Male
+Typical angina
+130
+131
+Less than 120 mg/dl Categorical Variable
+Having ST-T wave abnormality
+115
+Yes
+1
+1
+1
+3
+Negative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. age Continuous Variable 29 – 77 
+2. sex Categorical Variable 1 = male; 0 = female 
+3. cp: chest pain type Categorical Variable 1: typical angina 2: atypical angina 3: non-anginal pain 4: asymptomatic 
+4. trestbps: resting blood pressure Continuous Variable 94 – 200 
+5. chol: serum cholestoral Continuous Variable 126 – 564 
+6. fbs: fasting blood sugar > 120 mg/dl Categorical Variable 1 = true; 0 = false 
+7. restecg:resting ECG results Categorical Variable 0: normal 1: having ST-T wave abnormality 
+8. thalach: maximum heart rate achieved Continuous Variable 71 – 202 
+9. exang: exercise-induced angina Categorical Variable 1 = yes; 0 = no 
+10. oldpeak: ST depression induced by exercise relative to rest Continuous Variable 0 – 6.2 
+11. slope: slope of the peak exercise ST segment Continuous Variable 1 – 3 
+12. ca: number of major vessels Continuous Variable 0 – 3
+13. thal Categorical Variable 3 = normal; 6 = fixed defect; 7 = reversible defect
