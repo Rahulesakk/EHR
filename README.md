@@ -9,4 +9,6 @@ Health care model is built by Python(Machine Learning).
 2)In EHR File we have the indexpage.php click on this link and open in a any web browser. It will open The main page of the project.
 3)We have Mainproject. sql file in EHR folder Extract this file in MYSQL Server this is the backend Of your projcet.
 
-
+# Hosted Link
+http://ehr-bhcs.epizy.com/indexpage.php This is the hosted link of your project Where u can see the demo of the project. And username is :"abc" and password is "123".
+Please check once Before understanding the code.
