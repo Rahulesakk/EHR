@@ -4,3 +4,9 @@ This project is mainly uses for doctors because of maintaning the Patient histor
 Ehr is bulit using HTML, CSS, PHP and JAVASCRIPT.
 Health care model is built by Python(Machine Learning).
 
+# Running this project.
+1)Health care model is mainly hosted in Heroku this is a Python hosting free website. We have hosted your Health care model in heroku and copying this hosted link in EHR. In EHR this Python code will be present in a Doctor module.
+2)In EHR File we have the indexpage.php click on this link and open in a any web browser. It will open The main page of the project.
+3)We have Mainproject. sql file in EHR folder Extract this file in MYSQL Server this is the backend Of your projcet.
+
+
